@@ -1,0 +1,17 @@
+{
+"op": "equal",
+"lhs": {
+"op": "add",
+"lhs": 3,
+"rhs": {
+"op": "power",
+"lhs": {
+ "op" : "subtract",
+  "lhs" :"x",
+  "rhs" : 20
+},
+"rhs": 3
+}
+},
+"rhs": 21
+}

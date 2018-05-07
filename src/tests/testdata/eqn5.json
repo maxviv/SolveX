@@ -1,0 +1,9 @@
+{
+  "op": "equal",
+  "lhs": {
+    "op": "divide",
+    "lhs": "x",
+    "rhs": 5
+  },
+  "rhs": 15
+}
